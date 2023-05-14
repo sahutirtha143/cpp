@@ -26,6 +26,8 @@ int main()
     else{
         cout<<n<<" is not a prime number."<<endl;
     }
+    cout<<"I love my Family"<<endl;
+    cout<<"Happy Mothers Day"<<endl;
     
     return 0;
 
